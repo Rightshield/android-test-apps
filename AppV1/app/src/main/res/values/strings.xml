@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppV1</string>
+    <string name="searchDesc">Search...</string>
+
+    <string name="title">Band name:</string>
+    <string name="year">Origin:</string>
+    <string name="album">Album:</string>
+    <string name="favoriteString">Favorite: </string>
+    <string-array name="info">
+        <item>http://www.disturbed1.com/sites/g/files/g2000002776/f/201506/disturbed-logo.png</item>
+        <item>Chicago, Illinois, EEUU (1994)</item>
+        <item>Asylum (2010)\nThe Lost Children (2011)\nInmortalized (2015)</item>
+        <item>&lt;a href=\'https://en.wikipedia.org/wiki/Disturbed_(band)\'>More Information&lt;/a></item>
+        <!-- <item>https://en.wikipedia.org/wiki/Disturbed_(band)</item> -->
+    </string-array>
+    <string name="moreInfoString">More information</string>
+
+</resources>
